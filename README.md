@@ -1,1 +1,0 @@
-[Anomaly detection in Room light using Bolt Iot – Bolt IoT project submission.pdf](https://github.com/pankaj-hash/IoT-Light-Anomoly-Detection-System/files/9636271/Anomaly.detection.in.Room.light.using.Bolt.Iot.Bolt.IoT.project.submission.pdf)
